@@ -1,11 +1,11 @@
 # Site settings
 author: Jimmy Le
-title: 
+title: Jimmy Le
 header-img: img/home-bg.png
 email: jimmyle414@gmail.com
 copyright_name: Jimmy Le
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Jimmy Le
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jimmyle414
